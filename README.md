@@ -4,7 +4,7 @@ My name is Alex Lam. I have been programming for more than 5 years.
 
 EXPERIENCE
 ## Table of Contents
-- [Languages](#how-to-create-your-profile)
+- [Languages](#languages)
 - [Softwares](#how-to-customize-markdown-files)
 - [Projects](#how-to-create-new-repository)
   Programming Languages
