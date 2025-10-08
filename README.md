@@ -28,3 +28,5 @@ EXPERIENCE
     - Piskel
     - Adobe Lightroom
     - Office 365
+# Languages
+
