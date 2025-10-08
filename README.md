@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am an 18-year-old high school student preparing for college admissions. Programming for more than 5 years.</h3>
 
-- 🌱 I’m currently learning **CS120, GAM 100**
+- 🌱 I’m currently learning **Computer Science Principles, Game Development, Guitar, Photography**
 
-- 📫 How to reach me **alexzlam@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
